@@ -1,0 +1,23 @@
+[
+  {
+    "x": "08/01/2022",
+    "y": 560,
+    "label": {
+      "text": "This is a test"
+    }
+  },
+  {
+    "x": "10/30/2022",
+    "y": 700,
+    "label": {
+      "text": "This is a test 2"
+    }
+  },
+  {
+    "x": "12/07/2022",
+    "y": 920,
+    "label": {
+      "text": "This is a test 3"
+    }
+  }
+]
